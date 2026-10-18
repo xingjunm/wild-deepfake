@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="730" viewBox="0 0 960 730" role="img" aria-labelledby="title desc">
+<title id="title">WildDeepfake: global dataset adoption</title>
+<desc id="desc">636 unique institutions and companies across 65 named countries and regions, plus one entry with an unresolved country. Top ten: India: 160, China: 130, United States: 52, South Korea: 33, Pakistan: 26, Türkiye: 18, United Kingdom: 18, Taiwan: 10, Singapore: 9, Vietnam: 9. The other 55 countries and regions account for 170.</desc>
+<rect width="960" height="730" rx="20" fill="#f8fafc"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#0f172a">
+<text x="40" y="48" font-size="14" font-weight="700" letter-spacing="2" fill="#0369a1">WILDDEEPFAKE · GLOBAL REACH</text>
+<text x="40" y="91" font-size="30" font-weight="700">Supporting deepfake research worldwide</text>
+<rect x="40" y="117" width="296" height="103" rx="12" fill="#e0f2fe"/>
+<text x="58" y="164" font-size="36" font-weight="700" fill="#075985">636</text>
+<text x="58" y="196" font-size="14">institutions / companies</text>
+<rect x="352" y="117" width="296" height="103" rx="12" fill="#e0f2fe"/>
+<text x="370" y="164" font-size="36" font-weight="700" fill="#075985">65</text>
+<text x="370" y="196" font-size="14">countries / regions</text>
+<rect x="664" y="117" width="296" height="103" rx="12" fill="#e0f2fe"/>
+<text x="682" y="164" font-size="36" font-weight="700" fill="#075985">170</text>
+<text x="682" y="196" font-size="14">across 55 more countries / regions</text>
+<text x="40" y="263" font-size="18" font-weight="700">Top 10 countries / regions</text>
+<path d="M225.0 288V665" stroke="#cbd5e1" stroke-dasharray="3 5"/><text x="225.0" y="285" text-anchor="middle" font-size="12" fill="#475569">0</text>
+<path d="M381.0 288V665" stroke="#cbd5e1" stroke-dasharray="3 5"/><text x="381.0" y="285" text-anchor="middle" font-size="12" fill="#475569">40</text>
+<path d="M537.0 288V665" stroke="#cbd5e1" stroke-dasharray="3 5"/><text x="537.0" y="285" text-anchor="middle" font-size="12" fill="#475569">80</text>
+<path d="M693.0 288V665" stroke="#cbd5e1" stroke-dasharray="3 5"/><text x="693.0" y="285" text-anchor="middle" font-size="12" fill="#475569">120</text>
+<path d="M849.0 288V665" stroke="#cbd5e1" stroke-dasharray="3 5"/><text x="849.0" y="285" text-anchor="middle" font-size="12" fill="#475569">160</text>
+<text x="207" y="321" text-anchor="end" font-size="15">India</text>
+<rect x="225" y="301" width="624.0" height="27" rx="5" fill="#0284c7"/>
+<text x="859.0" y="321" font-size="15" font-weight="700">160</text>
+<text x="207" y="357" text-anchor="end" font-size="15">China</text>
+<rect x="225" y="337" width="507.0" height="27" rx="5" fill="#0284c7"/>
+<text x="742.0" y="357" font-size="15" font-weight="700">130</text>
+<text x="207" y="393" text-anchor="end" font-size="15">United States</text>
+<rect x="225" y="373" width="202.79999999999998" height="27" rx="5" fill="#0d9488"/>
+<text x="437.79999999999995" y="393" font-size="15" font-weight="700">52</text>
+<text x="207" y="429" text-anchor="end" font-size="15">South Korea</text>
+<rect x="225" y="409" width="128.7" height="27" rx="5" fill="#0d9488"/>
+<text x="363.7" y="429" font-size="15" font-weight="700">33</text>
+<text x="207" y="465" text-anchor="end" font-size="15">Pakistan</text>
+<rect x="225" y="445" width="101.39999999999999" height="27" rx="5" fill="#0d9488"/>
+<text x="336.4" y="465" font-size="15" font-weight="700">26</text>
+<text x="207" y="501" text-anchor="end" font-size="15">Türkiye</text>
+<rect x="225" y="481" width="70.2" height="27" rx="5" fill="#0d9488"/>
+<text x="305.2" y="501" font-size="15" font-weight="700">18</text>
+<text x="207" y="537" text-anchor="end" font-size="15">United Kingdom</text>
+<rect x="225" y="517" width="70.2" height="27" rx="5" fill="#0d9488"/>
+<text x="305.2" y="537" font-size="15" font-weight="700">18</text>
+<text x="207" y="573" text-anchor="end" font-size="15">Taiwan</text>
+<rect x="225" y="553" width="39.0" height="27" rx="5" fill="#0d9488"/>
+<text x="274.0" y="573" font-size="15" font-weight="700">10</text>
+<text x="207" y="609" text-anchor="end" font-size="15">Singapore</text>
+<rect x="225" y="589" width="35.1" height="27" rx="5" fill="#0d9488"/>
+<text x="270.1" y="609" font-size="15" font-weight="700">9</text>
+<text x="207" y="645" text-anchor="end" font-size="15">Vietnam</text>
+<rect x="225" y="625" width="35.1" height="27" rx="5" fill="#0d9488"/>
+<text x="270.1" y="645" font-size="15" font-weight="700">9</text>
+<text x="40" y="691" font-size="13" fill="#475569">Counts represent unique institutions / companies using the dataset.</text>
+<text x="40" y="713" font-size="13" fill="#475569">Total includes 1 entry with an unknown / unresolved country, excluded from geographic coverage.</text>
+</g></svg>
