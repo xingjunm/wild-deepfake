@@ -192,3 +192,5 @@ The chart highlights the ten countries and regions with the largest counts. A fu
 [Download the country-level counts (CSV)](./assets/dataset-usage-by-country.csv).
 
 *Counts describe institutional/company use of the dataset, rather than individual users, downloads, or citations.*
+
+WildDeepfake has been adopted by researchers from more than **40 universities**, including Stanford, MIT, Princeton, UC Berkeley, Columbia, and Johns Hopkins.
