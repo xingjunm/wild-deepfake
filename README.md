@@ -108,89 +108,13 @@ We are committed to safeguarding privacy while enabling research advancements.
 
 ## 🌍 Dataset Impact & Global Reach
 
-WildDeepfake is used by **636 unique institutions and companies** across **65 countries and regions**, supporting a global community working on deepfake detection. The total includes **one institution/company whose country is unknown or unresolved**; this entry is excluded from the geographic coverage count.
+WildDeepfake is used by **636 unique institutions and companies** across **65 countries and regions**, supporting a global community working on deepfake detection. WildDeepfake has been adopted by researchers from more than **40 universities**, including Stanford, MIT, Princeton, UC Berkeley, Columbia, and Johns Hopkins.
 
 ![WildDeepfake adoption: 636 institutions and companies; 65 countries and regions. Largest counts: India (160), China (130), and United States (52).](./assets/dataset-global-impact.svg)
 
 The chart highlights the ten countries and regions with the largest counts. A further **170 institutions and companies** are spread across the remaining **55 countries and regions**.
 
-<details>
-<summary><strong>Explore the complete country / region breakdown</strong></summary>
-
-| Rank | Country / Region | Unique Institutions / Companies |
-| ---: | :--- | ---: |
-| 1 | India | 160 |
-| 2 | China | 130 |
-| 3 | United States | 52 |
-| 4 | South Korea | 33 |
-| 5 | Pakistan | 26 |
-| 6 | Türkiye | 18 |
-| 7 | United Kingdom | 18 |
-| 8 | Taiwan | 10 |
-| 9 | Singapore | 9 |
-| 10 | Vietnam | 9 |
-| 11 | Australia | 8 |
-| 12 | Brazil | 8 |
-| 13 | France | 8 |
-| 14 | Indonesia | 8 |
-| 15 | Malaysia | 8 |
-| 16 | Bangladesh | 7 |
-| 17 | Italy | 7 |
-| 18 | Egypt | 6 |
-| 19 | Germany | 6 |
-| 20 | Japan | 6 |
-| 21 | Spain | 6 |
-| 22 | Iran | 5 |
-| 23 | Philippines | 5 |
-| 24 | Thailand | 5 |
-| 25 | Canada | 4 |
-| 26 | Israel | 4 |
-| 27 | Poland | 4 |
-| 28 | United Arab Emirates | 4 |
-| 29 | Iraq | 3 |
-| 30 | Nigeria | 3 |
-| 31 | Russia | 3 |
-| 32 | Sri Lanka | 3 |
-| 33 | Algeria | 2 |
-| 34 | Austria | 2 |
-| 35 | Belgium | 2 |
-| 36 | Greece | 2 |
-| 37 | Ireland | 2 |
-| 38 | Kazakhstan | 2 |
-| 39 | Nepal | 2 |
-| 40 | Netherlands | 2 |
-| 41 | Norway | 2 |
-| 42 | Palestine | 2 |
-| 43 | Portugal | 2 |
-| 44 | Romania | 2 |
-| 45 | Saudi Arabia | 2 |
-| 46 | Slovenia | 2 |
-| 47 | South Africa | 2 |
-| 48 | Switzerland | 2 |
-| 49 | Azerbaijan | 1 |
-| 50 | Bulgaria | 1 |
-| 51 | Burkina Faso | 1 |
-| 52 | Colombia | 1 |
-| 53 | Ethiopia | 1 |
-| 54 | Finland | 1 |
-| 55 | Hungary | 1 |
-| 56 | Jordan | 1 |
-| 57 | Kenya | 1 |
-| 58 | Libya | 1 |
-| 59 | Morocco | 1 |
-| 60 | Oman | 1 |
-| 61 | Peru | 1 |
-| 62 | Qatar | 1 |
-| 63 | Sweden | 1 |
-| 64 | Syria | 1 |
-| 65 | Ukraine | 1 |
-| — | Country unknown/unresolved | 1 |
-| | **Total** | **636** |
-
-</details>
-
-[Download the country-level counts (CSV)](./assets/dataset-usage-by-country.csv).
 
 *Counts describe institutional/company use of the dataset, rather than individual users, downloads, or citations.*
 
-WildDeepfake has been adopted by researchers from more than **40 universities**, including Stanford, MIT, Princeton, UC Berkeley, Columbia, and Johns Hopkins.
+
