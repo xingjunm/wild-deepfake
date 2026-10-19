@@ -64,7 +64,7 @@ The image name in the folder represents the frame number it appears in the origi
 </p>   
    The network structure of our proposed ADDNet-2D is illustrated below. Detailed structures of the three residual blocks used in our ADDNet-2D network are shown below too. These three blocks are also the building blocks of XceptionNet. The base network before the "resblock3" is our proposed ADDblock. Our ADDNet-3D shares the same ADD block architecture as ADDNet-2D, but has one ADD block for each of the face images in the sequence. Therefore, in our setting with face sequence length 𝐿, ADDNet-3D will have 𝐿 ADDblocks, and each ADD blocks share the same weights. Also different from ADDNet-2D, the classifier network(structure after the ADDblock) of ADDNet-3D is a 3D CNN.
 <p align="center">
-<img src="./details.jpg"  alt="details" title="detials" align="center"></img>
+<img src="./details.jpg"  alt="details" title="details" align="center"></img>
 </p>
 
 ### Expriments
