@@ -108,7 +108,7 @@ We are committed to safeguarding privacy while enabling research advancements.
 
 ## 🌍 Dataset Impact & Global Reach
 
-WildDeepfake is used by **636 unique institutions and companies** across **65 countries and regions**, supporting a global community working on deepfake detection. WildDeepfake has been adopted by researchers from more than **40 universities**, including Stanford, MIT, Princeton, UC Berkeley, Columbia, and Johns Hopkins.
+WildDeepfake is used by **636 unique institutions and companies** across **65 countries and regions**, supporting a global community working on deepfake detection. WildDeepfake has been adopted by researchers from more than **40 universities**, including Stanford, MIT, Princeton, UC Berkeley, Columbia, and Johns Hopkins, and companies, including Meta, Oracle, Tencent, and many others.
 
 ![WildDeepfake adoption: 636 institutions and companies; 65 countries and regions. Largest counts: India (160), China (130), and United States (52).](./assets/dataset-global-impact.svg)
 
